@@ -21,3 +21,14 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+#gitignore
+.gitignore.bak
+#node_modules
+node_modules/
+**/node_modules/
+#dist
+dist/
+#build
+build/
+**/dist/
+**/build/
